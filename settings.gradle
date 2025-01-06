@@ -5,10 +5,9 @@ pluginManagement {
             name = 'MinecraftForge'
             url = 'https://maven.minecraftforge.net/'
         }
-        maven { url = 'https://maven.parchmentmc.org' }
-        maven {
-            url = "https://maven.theillusivec4.top/"
+        maven { url = 'https://maven.parchmentmc.org'
         }
+
     }
 }
 
